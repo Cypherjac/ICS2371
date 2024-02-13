@@ -1,3 +1,9 @@
+/*
+ENE212-0223/2019
+Nasir Jacob Idris
+*/
+// Basic Addition and Subtraction Calculator
+
 #include <stdio.h>
 
 int sum(int a, int b){
